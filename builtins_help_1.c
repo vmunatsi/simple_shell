@@ -8,6 +8,8 @@ void help_help(void);
 
 /**
  * help_all - Displays all possible builtin shellby commands.
+ * 
+ * Return: void.
  */
 void help_all(void)
 {
