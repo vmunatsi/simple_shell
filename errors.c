@@ -36,7 +36,7 @@ int num_len(int num)
 
 /**
  * _itoa - Converts an integer to a string.
- * @num: The integer.
+ * @num: The integer to be converted.
  *
  * Return: The converted string.
  */
