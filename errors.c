@@ -10,6 +10,7 @@ int create_error(char **args, int err);
  *
  * Return: The digit length.
  */
+
 int num_len(int num)
 {
 	unsigned int num1;
@@ -35,7 +36,7 @@ int num_len(int num)
 
 /**
  * _itoa - Converts an integer to a string.
- * @num: The integer.
+ * @num: The integer to be converted.
  *
  * Return: The converted string.
  */
